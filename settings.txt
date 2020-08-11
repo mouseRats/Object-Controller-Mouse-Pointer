@@ -1,0 +1,4 @@
+sensitivity = 2
+click_threshold = 100
+window_toggle = 1
+mask_toggle = 1
